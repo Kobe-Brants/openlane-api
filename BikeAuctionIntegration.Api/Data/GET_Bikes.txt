@@ -1,0 +1,73 @@
+{
+  "values": [
+    {
+      "id": "2519419",
+      "BikeContainerId": "11605",
+      "Brand": "openlane",
+      "Type": "sealed",
+      "Country": "fr",
+      "includesAllTaxes": true,
+      "version": "Luxe Geartronic",
+      "category": "TVP",
+      "additionalInformation": null,
+      "registrationNumber": "ET-602-AX",
+      "firstRegistrationDate": "2017-12-27T00:00:00:00Z",
+      "equipments": [
+        "BigBoyWheels"
+      ],
+      "mainImageUrl": "https://medias.market.com/lots/06443051-41ca-4858-96c5-c68272db174d/images/{size}/0.jpg",
+      "documents": [
+        {
+          "type": "maintenance_history",
+          "url": "https://medias.market.com/ET6/06443051-41ca-4858-96c5-c68272db174d/documents/maintenace_history_8a506320-79f6-4ed4-aaca-f504e5685b64.pdf"
+        },
+        {
+          "type": "appraisal_report",
+          "url": "https://medias.market.com/GetReport?assessmentFileId=xxxx&withPrices=false&language=fr&VIN=YV1UYBABDJ9053289"
+        }
+      ],
+      "taxes": [
+        {
+          "type": "vat",
+          "percentage": 20.0
+        }
+      ],
+      "comments": null
+    },
+	{
+      "id": "2519420",
+      "BikeContainerId": "11605",
+      "Brand": "openlane",
+      "Type": "sealed",
+      "Country": "fr",
+      "includesAllTaxes": true,
+      "version": "Luxe Geartronic",
+      "category": "TVP",
+      "additionalInformation": "ugly bike",
+      "registrationNumber": "ET-652-AX",
+      "firstRegistrationDate": "2017-12-27T00:00:00:00Z",
+      "equipments": [
+        "BabyWheels"
+      ],
+      "mainImageUrl": "https://pbs.twimg.com/media/ETI02hIXYAAFBtG.jpg",
+      "documents": [
+        {
+          "type": "maintenance_history",
+          "url": "https://medias.market.com/ET6/06443051-41ca-4858-96c5-c68272db174d/documents/maintenace_history_8a506320-79f6-4ed4-aaca-f504e5685b64.pdf"
+        },
+        {
+          "type": "appraisal_report",
+          "url": "https://medias.market.com/GetReport?assessmentFileId=xxxx&withPrices=false&language=fr&VIN=YV1UYBABDJ9053289"
+        }
+      ],
+      "taxes": [
+        {
+          "type": "vat",
+          "percentage": 21.0
+        }
+      ],
+      "comments": "hello there"
+    }
+  ],
+  "continuationToken": "1"
+}
