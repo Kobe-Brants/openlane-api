@@ -2,16 +2,16 @@
   "values": [
     {
       "id": "2519419",
-      "BikeContainerId": "11605",
-      "Brand": "openlane",
-      "Type": "sealed",
-      "Country": "fr",
+      "bikeContainerId": "11605",
+      "brand": "openlane",
+      "type": "sealed",
+      "country": "fr",
       "includesAllTaxes": true,
       "version": "Luxe Geartronic",
       "category": "TVP",
       "additionalInformation": null,
       "registrationNumber": "ET-602-AX",
-      "firstRegistrationDate": "2017-12-27T00:00:00:00Z",
+      "firstRegistrationDate": "2017-12-27T00:00:00Z",
       "equipments": [
         "BigBoyWheels"
       ],
@@ -36,16 +36,16 @@
     },
 	{
       "id": "2519420",
-      "BikeContainerId": "11605",
-      "Brand": "openlane",
-      "Type": "sealed",
-      "Country": "fr",
+      "bikeContainerId": "11605",
+      "brand": "openlane",
+      "type": "sealed",
+      "country": "fr",
       "includesAllTaxes": true,
       "version": "Luxe Geartronic",
       "category": "TVP",
       "additionalInformation": "ugly bike",
       "registrationNumber": "ET-652-AX",
-      "firstRegistrationDate": "2017-12-27T00:00:00:00Z",
+      "firstRegistrationDate": "2017-12-27T00:00:00Z",
       "equipments": [
         "BabyWheels"
       ],

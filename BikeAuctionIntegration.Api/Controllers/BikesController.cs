@@ -11,9 +11,8 @@ namespace BikeAuctionIntegration.Api.Controllers;
 public class BikesController(IBikeService bikeService): CustomBaseController
 {
     [HttpGet]
-    public async Task<ActionResult<List<BikeResponse>>> GetBikes([FromQuery] string bikeContainerId, CancellationToken cancellationToken)
+    public async Task<ActionResult<BikeResponse>> GetBikes([FromQuery] string? bikeContainerId, CancellationToken cancellationToken)
     {
-        // TODO: Map
         var bikes = await bikeService.GetBikesAsync(bikeContainerId, cancellationToken);
         return CreateResult(bikes);
     }

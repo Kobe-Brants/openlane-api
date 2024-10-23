@@ -13,6 +13,5 @@ public class MappingProfile : Profile
 
     private void MapBike()
     {
-        CreateMap<Bike, BikeResponse>();
     }
 }
